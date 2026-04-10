@@ -129,15 +129,6 @@ Dibangun dengan fokus pada:
 
 ---
 
-## 📂 Lokasi Data
-
-LOCALAPPDATA/TirtaPrint/penjualan/
-
-Format file:
-penjualan_YYYY_MM.json
-
----
-
 ## 🔐 Sistem Lisensi
 
 * 🔑 Sekali beli (Lifetime License)
@@ -173,13 +164,12 @@ penjualan_YYYY_MM.json
 * Fotocopy & Laminating
 * Toko ATK
 * UMKM retail kecil
-* Cafe sederhana (offline POS)
 
 ---
 
 ## 🧑‍💻 Developer
 
-**Yudha Tirta**
+**Fazzy**
 Software Developer – POS & UMKM Systems
 
 ---
@@ -187,6 +177,7 @@ Software Developer – POS & UMKM Systems
 ## 📞 Support & Custom
 
 Butuh fitur tambahan atau custom?
+Hub : 085335015609
 
 * 🛠️ Custom fitur sesuai bisnis
 * 🔄 Update & maintenance
