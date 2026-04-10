@@ -43,6 +43,17 @@ Dibangun dengan fokus pada:
 
 ## 🔥 Fitur Unggulan
 
+### 🧠 Perhitungan Otomatis File (Smart Print Analyzer™)
+- Deteksi otomatis jenis print:
+  - ⚫ Hitam Putih (B&W)
+  - 🎨 Warna (Color)
+  - 🌈 Full Color  
+- 📄 Deteksi otomatis ukuran kertas:
+- Harga dihitung otomatis berdasarkan isi file
+- Support multi-file dalam satu transaksi
+- Mengurangi kesalahan input manual kasir
+- Cocok untuk usaha printing & fotocopy profesional
+
 ### 💳 Sistem Pembayaran Lengkap
 
 * Tunai (Cash)
