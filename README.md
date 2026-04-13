@@ -121,12 +121,44 @@ Dibangun dengan fokus pada:
 
 ## ⚙️ Instalasi
 
-1. Jalankan file:
-   TirtaApps_Setup.exe
+1. Jalankan file:  
+   TirtaApps_Setup.exe  
 
-2. Ikuti proses instalasi
+2. Jika muncul peringatan seperti berikut:
 
-3. Buka aplikasi dari Desktop
+![Windows Protected](assets/instalasi1.png)
+
+➡️ Ini normal karena aplikasi belum memiliki sertifikat digital.
+
+3. Klik **More info**, lalu pilih **Run anyway**:
+
+![Run Anyway](assets/instalasi2.png)
+
+4. Ikuti proses instalasi sampai selesai
+
+5. Buka aplikasi melalui shortcut di Desktop
+
+---
+
+## 🔐 Aktivasi Lisensi
+
+Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut:
+
+![Aktivasi](assets/aktivasi.png)
+
+### Langkah Aktivasi:
+
+1. Klik tombol **Salin** pada bagian **ID Mesin**
+2. Kirim ID Mesin tersebut ke nomor WhatsApp developer
+3. Developer akan memberikan **License Key**
+4. Masukkan License Key ke dalam aplikasi
+5. Klik **Aktivasi**
+
+✅ Jika berhasil, aplikasi siap digunakan
+
+---
+
+> 🔐 Aplikasi dilindungi dengan sistem lisensi untuk memastikan penggunaan resmi.
 
 ---
 
@@ -222,4 +254,3 @@ Hubungi : 085335015609
 Kalau kamu suka project ini:
 
 ⭐ Star repo ini di GitHub
-
