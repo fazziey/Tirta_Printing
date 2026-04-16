@@ -30,6 +30,86 @@
 
 ---
 
+## 🖥️ System Requirements
+
+| Komponen | Minimum    | Rekomendasi     |
+| -------- | ---------- | --------------- |
+| OS       | Windows 10 | Windows 11      |
+| RAM      | 4 GB       | 8 GB            |
+| Storage  | 200 MB     | 500 MB          |
+| Printer  | Optional   | Thermal Printer |
+
+---
+
+## ⚙️ Instalasi
+
+1. Jalankan file:  
+   TirtaApps_Setup.exe  
+
+2. Jika muncul peringatan seperti berikut:
+
+![Windows Protected](assets/instalasi1.png)
+
+➡️ Ini normal karena aplikasi belum memiliki sertifikat digital.
+
+3. Klik **More info**, lalu pilih **Run anyway**:
+
+![Run Anyway](assets/instalasi2.png)
+
+4. Ikuti proses instalasi sampai selesai
+
+5. Buka aplikasi melalui shortcut di Desktop
+
+---
+
+## 🔐 Aktivasi Lisensi
+
+Setelah masa trial 15 hari habis, akan muncul halaman aktivasi seperti berikut:
+
+![Aktivasi](assets/aktivasi.png)
+
+### Langkah Aktivasi:
+
+1. Klik tombol **Salin** pada bagian **ID Mesin**
+2. Kirim ID Mesin tersebut ke nomor WhatsApp developer
+3. Developer akan memberikan **License Key**
+4. Masukkan License Key ke dalam aplikasi
+5. Klik **Aktivasi**
+
+✅ Jika berhasil, aplikasi siap digunakan
+
+---
+
+> 🔐 Aplikasi dilindungi dengan sistem lisensi untuk memastikan penggunaan resmi.
+
+---
+
+## 🔧 Setup Awal
+
+* Atur printer thermal
+* Isi nama usaha
+* Sesuaikan format nota
+
+---
+
+## 🔐 Sistem Lisensi
+
+* 🔑 Sekali beli (Lifetime License)
+* 💻 Berlaku untuk 1 perangkat
+* 🔄 Aktivasi ulang jika pindah device
+
+---
+
+## 🛠️ Teknologi
+
+* Python 3
+* CustomTkinter (Modern UI)
+* Matplotlib (Chart & Analytics)
+* JSON (Local Database)
+* ESC/POS (Thermal Printing)
+
+---
+
 ## 💼 Tentang Aplikasi
 
 **TIRTA-APPS** adalah aplikasi kasir (**Point of Sale**) berbasis desktop yang dirancang khusus untuk kebutuhan UMKM di Indonesia.
@@ -105,86 +185,6 @@ Dibangun dengan fokus pada:
 * Export ke **Excel**
 * Preview sebelum export
 * Siap untuk laporan bisnis
-
----
-
-## 🖥️ System Requirements
-
-| Komponen | Minimum    | Rekomendasi     |
-| -------- | ---------- | --------------- |
-| OS       | Windows 10 | Windows 11      |
-| RAM      | 4 GB       | 8 GB            |
-| Storage  | 200 MB     | 500 MB          |
-| Printer  | Optional   | Thermal Printer |
-
----
-
-## ⚙️ Instalasi
-
-1. Jalankan file:  
-   TirtaApps_Setup.exe  
-
-2. Jika muncul peringatan seperti berikut:
-
-![Windows Protected](assets/instalasi1.png)
-
-➡️ Ini normal karena aplikasi belum memiliki sertifikat digital.
-
-3. Klik **More info**, lalu pilih **Run anyway**:
-
-![Run Anyway](assets/instalasi2.png)
-
-4. Ikuti proses instalasi sampai selesai
-
-5. Buka aplikasi melalui shortcut di Desktop
-
----
-
-## 🔐 Aktivasi Lisensi
-
-Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut:
-
-![Aktivasi](assets/aktivasi.png)
-
-### Langkah Aktivasi:
-
-1. Klik tombol **Salin** pada bagian **ID Mesin**
-2. Kirim ID Mesin tersebut ke nomor WhatsApp developer
-3. Developer akan memberikan **License Key**
-4. Masukkan License Key ke dalam aplikasi
-5. Klik **Aktivasi**
-
-✅ Jika berhasil, aplikasi siap digunakan
-
----
-
-> 🔐 Aplikasi dilindungi dengan sistem lisensi untuk memastikan penggunaan resmi.
-
----
-
-## 🔧 Setup Awal
-
-* Atur printer thermal
-* Isi nama usaha
-* Sesuaikan format nota
-
----
-
-## 🔐 Sistem Lisensi
-
-* 🔑 Sekali beli (Lifetime License)
-* 💻 Berlaku untuk 1 perangkat
-* 🔄 Aktivasi ulang jika pindah device
-
----
-
-## 🛠️ Teknologi
-
-* Python 3
-* CustomTkinter (Modern UI)
-* Matplotlib (Chart & Analytics)
-* JSON (Local Database)
-* ESC/POS (Thermal Printing)
 
 ---
 
