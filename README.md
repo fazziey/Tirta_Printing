@@ -210,23 +210,6 @@ Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut
 
 ---
 
-## 🔧 Setup Awal
-
-* Klik Setting
-* Atur printer
-* Lalu Setting Nota
-* Sesuaikan format nota
-
----
-
-## 🔐 Sistem Lisensi
-
-* 🔑 Sekali beli (Lifetime License)
-* 💻 Berlaku untuk 1 perangkat
-* 🔄 Aktivasi ulang jika pindah device
-
----
-
 ## 🛠️ Teknologi
 
 * Python 3
