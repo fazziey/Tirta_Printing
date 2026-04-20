@@ -188,28 +188,6 @@ Dibangun dengan fokus pada:
 
 ---
 
-## 🔐 Aktivasi Lisensi
-
-Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut:
-
-![Aktivasi](assets/aktivasi.png)
-
-### Langkah Aktivasi:
-
-1. Klik tombol **Salin** pada bagian **ID Mesin**
-2. Kirim ID Mesin tersebut ke nomor WhatsApp developer
-3. Developer akan memberikan **License Key**
-4. Masukkan License Key ke dalam aplikasi
-5. Klik **Aktivasi**
-
-✅ Jika berhasil, aplikasi siap digunakan
-
----
-
-> 🔐 Aplikasi dilindungi dengan sistem lisensi untuk memastikan penggunaan resmi.
-
----
-
 ## 🛠️ Teknologi
 
 * Python 3
