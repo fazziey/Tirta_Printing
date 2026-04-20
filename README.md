@@ -188,39 +188,6 @@ Dibangun dengan fokus pada:
 
 ---
 
-<<<<<<< HEAD
-## 🖥️ System Requirements
-
-| Komponen | Minimum    | Rekomendasi     |
-| -------- | ---------- | --------------- |
-| OS       | Windows 10 | Windows 11      |
-| RAM      | 4 GB       | 8 GB            |
-| Storage  | 200 MB     | 500 MB          |
-| Printer  | Optional   | Thermal Printer |
-
----
-
-## ⚙️ Instalasi
-
-1. Jalankan file:  
-   TirtaApps_Setup.exe  
-
-2. Jika muncul peringatan seperti berikut:
-
-![Windows Protected](assets/instalasi1.png)
-
-➡️ Ini normal karena aplikasi belum memiliki sertifikat digital.
-
-3. Klik **More info**, lalu pilih **Run anyway**:
-
-![Run Anyway](assets/instalasi2.png)
-
-4. Ikuti proses instalasi sampai selesai
-
-5. Buka aplikasi melalui shortcut di Desktop
-
----
-
 ## 🔐 Aktivasi Lisensi
 
 Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut:
